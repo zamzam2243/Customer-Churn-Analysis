@@ -26,9 +26,9 @@ Correlation Analysis: A strong negative correlation (-0.72) exists between Visit
 Key Finding: Higher visit frequency is the most significant indicator of member retention; low visit frequency strongly correlates with churn.
 
 
-*Team Members*
-Joice mena refaat
-Zamzam Mohammed Naser
-Noura Ashraf Abuelyazed
-Malak Elhusany Abdullah
+*Team Members*:
+Joice mena refaat,
+Zamzam Mohammed Naser,
+Noura Ashraf Abuelyazed,
+Malak Elhusany Abdullah,
 Eman Mohamed Elbadry
